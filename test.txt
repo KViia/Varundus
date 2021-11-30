@@ -1,2 +1,4 @@
 Tere, Maailm!!!
-jou jah
+git add test.txt
+git commit -m ""
+git push -u origin master
